@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LibraryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\librarymanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\librarymanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|d:\\librarymanagmentsystem\\librarymanagmentsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CA8C53-DAFA-4491-846B-4DD32BF587FE}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagmentSystem",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\LibraryManagmentSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\LibraryManagmentSystem.csproj",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\LibraryManagmentSystem.csproj",
+              "RelativeToolTip": "LibraryManagmentSystem\\LibraryManagmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T18:05:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Fine.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Fine.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Fine.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Fine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:09:09.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Loan.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Loan.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Reader.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Reader.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Reader.cs*",
+              "RelativeToolTip": "LibraryManagmentSystem\\Reader.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:06:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Book.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:05:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\DatabaseHelper.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\DatabaseHelper.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:04:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\App.xaml.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\App.xaml.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:02:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\AssemblyInfo.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\AssemblyInfo.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:02:29.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\MainWindow.xaml",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryManagmentSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-04T18:02:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\LibraryManagmentSystem\\LibraryManagmentSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:02:16.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
