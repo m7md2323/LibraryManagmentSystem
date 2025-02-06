@@ -18,71 +18,23 @@ The Library Management System is designed to help librarians and readers manage 
 
 Book:
 
-[
-
-  Unique Book ID
-  
-  Title
-  
-  Author
-  
-  Genre
-  
-  Status (available/borrowed)
-  
-]
+[Unique Book ID, Title, Author, Genre, Status (available/borrowed)]
 
 Reader:
 
-[
-
-  Unique Reader ID
-  
-  Name
-  
-  Phone Number
-  
-  Borrowed Books List
-  
-]
+[Unique Reader ID, Name, Phone Number, Borrowed Books List]
 
 Loan:
 
-[
-
-  Loan ID
-  
-  Book ID
-  
-  Reader ID
-  
-  Borrow Date
-  
-  Return Date
-  
-  Status (borrowed/returned)
-  
-]
+[Loan ID, Book ID, Reader ID, Borrow Date, Return Date, Status (borrowed/returned)]
 
 Fine:
 
-[
-
-  Fine ID
-  
-  Reader ID
-  
-  Amount
-  
-  Status (paid/unpaid)
-  
-]
+[Fine ID, Reader ID, Amount, Status (paid/unpaid)]
 
 **Use Cases**:
 
 For Readers:
-
-[
 
  1.Search for books
  
@@ -94,11 +46,7 @@ For Readers:
  
  5.View borrowed books
  
-]
-
 For Librarians:
-
-[
 
  1.Add/update book information
  
@@ -110,8 +58,6 @@ For Librarians:
  
  5.Generate reports
  
-]
-
 **Implementation Details**:
 
 1.Use C# and file-based storage.
