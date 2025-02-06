@@ -19,6 +19,7 @@ The Library Management System is designed to help librarians and readers manage 
 Book:
 
 [
+
   Unique Book ID
   
   Title
@@ -34,6 +35,7 @@ Book:
 Reader:
 
 [
+
   Unique Reader ID
   
   Name
@@ -47,6 +49,7 @@ Reader:
 Loan:
 
 [
+
   Loan ID
   
   Book ID
