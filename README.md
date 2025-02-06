@@ -17,6 +17,7 @@ The Library Management System is designed to help librarians and readers manage 
 **System Entities and Data**:
 
 Book:
+
 [
   Unique Book ID
   
@@ -29,6 +30,7 @@ Book:
   Status (available/borrowed)
   
 ]
+
 Reader:
 
 [
@@ -41,7 +43,9 @@ Reader:
   Borrowed Books List
   
 ]
+
 Loan:
+
 [
   Loan ID
   
@@ -70,6 +74,7 @@ Fine:
   Status (paid/unpaid)
   
 ]
+
 **Use Cases**:
 
 For Readers:
